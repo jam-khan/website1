@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.Main__Button {
+  display: flex;
+  flex-direction: column;
+  align-content: center;  
+}

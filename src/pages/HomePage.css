@@ -1,0 +1,13 @@
+.main {
+    text-align: center;
+    height: 100%;
+}
+  
+.main__button {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;  
+}
